@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9972" started-at="2020-10-06T12:42:56Z" finished-at="2020-10-06T12:43:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9972" started-at="2020-10-06T12:42:56Z" finished-at="2020-10-06T12:43:06Z">
+      <class name="com.qa.hubspot.pageTests.SignInTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.pageTests.SignInTest@2890c451]" name="setup" is-config="true" duration-ms="9904" started-at="2020-10-06T12:42:56Z" finished-at="2020-10-06T12:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logoTest()[pri:1, instance:com.qa.hubspot.pageTests.SignInTest@2890c451]" name="logoTest" duration-ms="53" started-at="2020-10-06T12:43:06Z" finished-at="2020-10-06T12:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.hubspot.pageTests.SignInTest@2890c451]" name="teardown" is-config="true" duration-ms="1" started-at="2020-10-06T12:43:06Z" finished-at="2020-10-06T12:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.hubspot.pageTests.SignInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
